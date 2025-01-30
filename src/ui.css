@@ -1,0 +1,16 @@
+.wrapper {
+  padding: 20px;
+}
+
+.frame {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.frame.selected {
+  background: #e6f3ff;
+  border-color: #1a73e8;
+}

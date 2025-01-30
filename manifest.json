@@ -1,0 +1,18 @@
+{
+  "name": "BannerAnimation",
+  "id": "1466824465849220922",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "permissions": ["currentuser"],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://unpkg.com",
+      "https://cdn.tailwindcss.com",
+      "https://www.gravatar.com"
+    ]
+  }
+}
